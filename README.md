@@ -14,4 +14,4 @@ Application consist of two web pages:
     ` WebContent -> WEB-INF -> spring -> appServlet -> servlet-contex.xml`
  
  ## Run the project
- - Run the project at http://localhost:9541/
+ - Run the project at `http://localhost:8080/`
