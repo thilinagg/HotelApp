@@ -13,3 +13,5 @@ Application consist of two web pages:
  - set database username and password at 
     ` WebContent -> WEB-INF -> spring -> appServlet -> servlet-contex.xml`
  
+ ## Run the project
+ - Run the project at http://localhost:9541/
