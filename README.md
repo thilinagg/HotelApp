@@ -14,4 +14,5 @@ Application consist of two web pages:
     ` WebContent -> WEB-INF -> spring -> appServlet -> servlet-contex.xml`
  
  ## Run the project
- - Run the project at `http://localhost:8080/`
+ - connect to `http://localhost:8080/`
+ - to login to system provide user name as `thilina` password `abc123`
