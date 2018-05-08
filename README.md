@@ -15,4 +15,4 @@ Application consist of two web pages:
  
  ## Run the project
  - connect to `http://localhost:8080/`
- - to login to system provide user name as `thilina` password `abc123`
+ - to login to system provide user name as `thilina` and password as `abc123`
